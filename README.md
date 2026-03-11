@@ -17,7 +17,8 @@ ________________________________________<br>
 • Copper straight-through and serial DCE/DTE cables<br>
 ________________________________________<br>
 # Network Topology Diagram
-<img width="1883" height="989" alt="image" src="https://github.com/user-attachments/assets/bba6a968-dec7-4874-a26f-d8d472df2965" />
+
+<img width="1077" height="454" alt="image" src="https://github.com/user-attachments/assets/ea48d8ba-9a77-4a47-8073-121617c6ba2c" />
 
 ________________________________________<br>
 Addressing Table<br>
