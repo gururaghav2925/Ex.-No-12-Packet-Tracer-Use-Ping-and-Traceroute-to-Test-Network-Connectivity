@@ -124,7 +124,13 @@ ________________________________________
 • Command outputs (ipconfig, ipv6config, ping, tracert) for PCs.<br>
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a62a0aac-44aa-4783-a3f2-3b351525bf49" />
 
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4da99329-955c-47fc-870b-23566060d500" />
+
 • Router interface and routing tables.<br>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c38af9da-e238-4950-aa96-94e1bb604d98" />
+
+
 • Successful ping results after fixes.<br>
 ________________________________________<br>
 # Result
