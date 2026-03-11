@@ -132,6 +132,12 @@ ________________________________________
 
 
 • Successful ping results after fixes.<br>
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c6b839b9-286c-4c50-9b00-0a42a8c7a3de" />
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/13d82cc1-660d-4a43-b98b-020686479239" />
+
 ________________________________________<br>
 # Result
 IPv4 and IPv6 connectivity issues were diagnosed and resolved using ping and tracert commands. Routers and PCs achieved full dual-stack communication after correcting configuration errors, confirming network restoration and routing accuracy.<br>
