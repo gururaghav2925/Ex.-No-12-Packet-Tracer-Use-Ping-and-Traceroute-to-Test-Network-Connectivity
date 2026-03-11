@@ -1,6 +1,7 @@
 # Ex. No: 12 – Packet Tracer: Use Ping and Traceroute to Test Network Connectivity
 # Date: 26/02/2026
 ________________________________________<br>
+________________________________________<br>
 # Objective
 To test and restore IPv4 and IPv6 network connectivity using diagnostic commands (ping and tracert), identify faults, and verify proper routing between end devices in a dual-stack (IPv4 + IPv6) topology.<br>
 Tasks:<br>
@@ -16,9 +17,8 @@ ________________________________________<br>
 • Copper straight-through and serial DCE/DTE cables<br>
 ________________________________________<br>
 # Network Topology Diagram
+<img width="1883" height="989" alt="image" src="https://github.com/user-attachments/assets/bba6a968-dec7-4874-a26f-d8d472df2965" />
 
-
-<img width="918" height="414" alt="image" src="https://github.com/user-attachments/assets/f979bdfa-f15a-45eb-8cd4-d2814794315c" />
 ________________________________________<br>
 Addressing Table<br>
 Device	Interface	IPv4 Address / Subnet Mask	IPv6 Address / Prefix	Default Gateway<br>
@@ -121,6 +121,8 @@ show ipv6 interface brief	Verify IPv6 interface status<br>
 ________________________________________
 # Output (Attach Screenshots)
 • Command outputs (ipconfig, ipv6config, ping, tracert) for PCs.<br>
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a62a0aac-44aa-4783-a3f2-3b351525bf49" />
+
 • Router interface and routing tables.<br>
 • Successful ping results after fixes.<br>
 ________________________________________<br>
